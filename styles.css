@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f8ff;
+  }
+  
+  header {
+    background-color: #003366;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  
+  main {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  table, th, td {
+    border: 1px solid #003366;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer {
+    margin-top: 30px;
+    text-align: center;
+    color: #555;
+  }
